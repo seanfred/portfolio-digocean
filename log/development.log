@@ -88793,3 +88793,266 @@ Served asset /styleswitcher.js - 304 Not Modified (0ms)
 
 Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-11-24 13:16:28 -0800
 Served asset /posts.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-24 13:32:18 -0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Compiled twitter/bootstrap.css  (4602ms)  (pid 1286)
+Compiled about.css  (1ms)  (pid 1286)
+Compiled base.css  (1ms)  (pid 1286)
+Compiled blog.css  (1ms)  (pid 1286)
+Compiled colorbox.css  (0ms)  (pid 1286)
+Compiled colors/color-blue.css  (0ms)  (pid 1286)
+Compiled colors/color-green.css  (0ms)  (pid 1286)
+Compiled colors/color-orange.css  (0ms)  (pid 1286)
+Compiled colors/color-red.css  (0ms)  (pid 1286)
+Compiled colors/color-yellow.css  (0ms)  (pid 1286)
+Compiled contact.css  (2ms)  (pid 1286)
+Compiled font-awesome.css  (1ms)  (pid 1286)
+Compiled home.css  (4ms)  (pid 1286)
+Compiled jquery.custombox.css  (0ms)  (pid 1286)
+Compiled layout.css  (0ms)  (pid 1286)
+Compiled portfolio.css  (1ms)  (pid 1286)
+Compiled posts.css  (3ms)  (pid 1286)
+Compiled project.css  (0ms)  (pid 1286)
+Compiled projects.css  (1ms)  (pid 1286)
+Compiled skeleton.css  (5ms)  (pid 1286)
+Compiled application.css  (5011ms)  (pid 1286)
+Completed 200 OK in 5122ms (Views: 5120.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/about.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /about.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/base.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /base.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colorbox.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colorbox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blog.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /blog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colors/color-blue.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colors/color-blue.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colors/color-red.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colors/color-red.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colors/color-green.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colors/color-green.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colors/color-orange.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colors/color-orange.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/colors/color-yellow.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /colors/color-yellow.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/contact.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:23 -0800
+Served asset /contact.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.custombox.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /jquery.custombox.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /twitter/bootstrap.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /layout.css - 200 OK (6ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /posts.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/portfolio.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /portfolio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/project.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /project.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/skeleton.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /skeleton.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /projects.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /twitter/bootstrap/transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:24 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap/affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blog.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /blog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/gmaps.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /gmaps.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/about.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /about.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/contact.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /contact.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jqbar.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jqbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.custombox.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.custombox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.easing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slimmenu.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.slimmenu.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.colorbox.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.colorbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.masonry.min.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.masonry.min.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.isotope.min.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.isotope.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.transit.min.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.transit.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mb.bgndGallery.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /mb.bgndGallery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modern-business.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /modern-business.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/portfolio.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /portfolio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:25 -0800
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pace.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /pace.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.custom.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /modernizr.custom.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /posts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styleswitcher.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /styleswitcher.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/projects.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /projects.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/template.js?body=1" for 127.0.0.1 at 2013-11-24 13:32:26 -0800
+Served asset /template.js - 304 Not Modified (0ms)
