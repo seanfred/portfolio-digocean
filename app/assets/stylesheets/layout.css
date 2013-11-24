@@ -50,6 +50,7 @@
   left: 0;
   right: 0;
   bottom: 0;
+  display: none;
 }
 
 .pace.pace-inactive .pace-progress {
@@ -59,7 +60,7 @@
 .pace .pace-progress {
   position: fixed;
   z-index: 2000;
-  display: block;
+  display: none;
   position: absolute;
   left: 0;
   top: 0;
@@ -89,7 +90,7 @@
 
 .pace .pace-progress:after {
   content: attr(data-progress-text);
-  display: block;
+  display: none;
 }
 
 @-webkit-keyframes pace-3d-spinner {
@@ -449,7 +450,7 @@ ul.slimmenu > li:first-child { border-left: 0 }
 ul.slimmenu > li:last-child { margin-right: 0 }
 ul.slimmenu li a {
     display: block;
-    color: #fff;
+    color: #0fb7f0;
     padding: 10px 0px;
     margin: 0px 12px;
 	font-family: 'OpenSans-Light-webfont';
@@ -553,13 +554,24 @@ ul.slimmenu.collapsed li > ul {
 	overflow:hidden;
 	z-index:2;
 	background-size:cover;
+  background-image:url('https://s3.amazonaws.com/seanfred/pics/seattle1.jpg');
+}
+
+.bottom {
+  position:relative;
+  display:block;
+  width:100%;
+  margin:0 auto;
+  text-align:center;
+  padding-top:50px;
+  padding-bottom:0px;
 }
 
 
 .home-text {
 	position:absolute;
 	width:100%;
-	top:50%;
+	top:30%;
 	margin-top:-100px;
 	height:200px;
 	overflow: hidden;
@@ -567,7 +579,7 @@ ul.slimmenu.collapsed li > ul {
 }
 
 .home-text p {
-	color:#fff;
+	color:#0fb7f0;
 	font-size: 18px;
 	text-align:center;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.6), 3px 3px 5px rgba(0,0,0,.3);
@@ -1125,12 +1137,24 @@ left: 0;
 	text-align:center;
 	z-index:99;
 	height:14px;
+
 }
+
+.social-bottom1{
+  position:relative;
+  width:100%;
+  text-align:center;
+  z-index:50;
+  height:14px;
+  margin-top: 75px;
+}
+
+
 .bottom-social li {
     padding:0;
     list-style: none;
 	text-align:center;
-	width:18px;
+	width:50px;
     display: inline-block;
 	cursor:pointer;
 	-webkit-transition : all 0.2s ease-out;
@@ -1141,7 +1165,7 @@ left: 0;
 
 .bottom-social li.icon-bottom a {
 	font-family: 'FontAwesome';
-	font-size: 14px;
+	font-size: 20px;
 	line-height: 14px;
 	width:18px;
 	color: #0fb7f0;

@@ -1,7 +1,5 @@
 Portfolio::Application.routes.draw do
 
-scope ":locale" do
-
   devise_for :users,
              controllers: {registrations: "users/registrations",
                            passwords: "users/passwords",
@@ -15,7 +13,10 @@ scope ":locale" do
     resources :comments
   end
 
-end
+  resources :about, :contact, :blog, :portfolio
+
+
+
 
   root to: 'home#index'
 
