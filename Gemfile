@@ -14,7 +14,7 @@ gem 'browser-timezone-rails'
 gem 'globalize'
 gem 'metric_fu'
 gem 'therubyracer'
-gem 'jquery-rails'
+
 
 
 
@@ -26,6 +26,7 @@ gem 'coveralls', require: false
 group :production do
   gem 'rails_12factor'
   gem 'pg'
+  gem 'jquery-rails'
 end
 
 
@@ -41,7 +42,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
+
 
 group :development do
   gem "rails-erd"
