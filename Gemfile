@@ -14,6 +14,7 @@ gem 'browser-timezone-rails'
 gem 'globalize'
 gem 'metric_fu'
 gem 'therubyracer'
+gem 'jquery-rails'
 
 
 
