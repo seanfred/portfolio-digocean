@@ -23,6 +23,7 @@ gem 'coveralls', require: false
 group :production do
   gem 'rails_12factor'
   gem 'pg'
+  gem 'mysql2'
 end
 
 
@@ -51,13 +52,11 @@ group :development, :test do
   gem 'minitest-rails-capybara'
   gem 'minitest-focus'
   gem 'minitest-colorize'
-  gem 'capybara-webkit'
   gem 'launchy'
   gem 'pry-rails'
   gem 'pry-doc'
   gem 'pry-debugger'
   gem 'faker'
-  gem 'railroady'
 end
 
 group :test do
