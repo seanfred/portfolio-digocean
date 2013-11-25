@@ -360,14 +360,14 @@ article .cnt{
 }
 
 .logo{
-	position:absolute;
-	width:90px;
-	height:26px;
-	z-index:10000;
-	left:40px;
-	top:20px;
-	background:url('SEAN_FREDERICK_1.png') no-repeat center center;
-	background-size:90px 26px;
+	position: absolute;
+width: 160px;
+height: 40px;
+z-index: 10000;
+left: 40px;
+top: 10px;
+background: url('https://s3.amazonaws.com/seanfred/pics/SEAN_FREDERICK_2+(1).png') no-repeat center center;
+background-size: 200px 120px;
 }
 
 @media only screen and (max-width: 800px) {
@@ -1116,11 +1116,11 @@ left: 0;
 	text-align:center;
 	background:#292929;
 	padding-top:50px;
-	padding-bottom:50px;
+	padding-bottom:20px;
 }
 .footer img{
-	width:102px;
-	height:30px;
+	width:250px;
+	height:150px;
 }
 
 
